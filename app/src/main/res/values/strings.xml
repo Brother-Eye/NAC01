@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NAC01</string>
+
+    <string name="palmeiras">Palmeiras</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="santos">Santos</string>
+    <string name="saopaulo">São Paulo</string>
+    <string name="portuguesa">Portuguesa</string>
+
+</resources>

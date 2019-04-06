@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Times">
+        <item>@string/palmeiras</item>
+        <item>@string/corinthians</item>
+        <item>@string/santos</item>
+        <item>@string/saopaulo</item>
+        <item>@string/portuguesa</item>
+    </string-array>
+
+
+</resources>
